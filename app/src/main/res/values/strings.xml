@@ -19,6 +19,7 @@
     <string name="news_placeholder">News</string>
     <string name="sports_info_placeholder">Here is some news</string>
     <string name="txt_subttl_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="subttl_detail_txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
 
     <string-array name="sports_titles">
         <item>Baseball</item>

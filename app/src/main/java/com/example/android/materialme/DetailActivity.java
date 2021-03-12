@@ -2,10 +2,6 @@ package com.example.android.materialme;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.ImageView;
-import android.widget.TextView;
-
-import com.bumptech.glide.Glide;
 
 public class DetailActivity extends AppCompatActivity {
 

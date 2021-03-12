@@ -4,7 +4,6 @@
     android:layout_height="match_parent">
 
     <RelativeLayout xmlns:tools="http://schemas.android.com/tools"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:context=".DetailActivity">
@@ -21,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignBottom="@id/sportsImageDetail"
-            android:padding="8dp"
+            android:padding="16dp"
             android:text="@string/title_placeholder"
             android:theme="@style/ThemeOverlay.AppCompat.Dark" />
 
@@ -31,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/sportsImageDetail"
-            android:padding="8dp"
+            android:padding="16dp"
             android:text="@string/news_placeholder"
             android:textColor="?android:textColorSecondary" />
 
@@ -41,7 +40,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/newsTitleDetail"
-            android:padding="8dp"
-            android:text="@string/txt_subttl_detail" />
+            android:padding="16dp"
+            android:text="@string/subttl_detail_txt" />
+
     </RelativeLayout>
 </ScrollView>
